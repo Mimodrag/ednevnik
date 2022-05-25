@@ -1,0 +1,16 @@
+C:\Users\Miodrag\Desktop\guals\bin\Debug\eDnevnik.exe.config
+C:\Users\Miodrag\Desktop\guals\bin\Debug\eDnevnik.exe
+C:\Users\Miodrag\Desktop\guals\bin\Debug\eDnevnik.pdb
+C:\Users\Miodrag\Desktop\guals\obj\Debug\eDnevnik.csproj.AssemblyReference.cache
+C:\Users\Miodrag\Desktop\guals\obj\Debug\eDnevnik.Glavna2.resources
+C:\Users\Miodrag\Desktop\guals\obj\Debug\eDnevnik.Login.resources
+C:\Users\Miodrag\Desktop\guals\obj\Debug\eDnevnik.Ocena.resources
+C:\Users\Miodrag\Desktop\guals\obj\Debug\eDnevnik.osoba.resources
+C:\Users\Miodrag\Desktop\guals\obj\Debug\eDnevnik.Properties.Resources.resources
+C:\Users\Miodrag\Desktop\guals\obj\Debug\eDnevnik.Raspodela.resources
+C:\Users\Miodrag\Desktop\guals\obj\Debug\eDnevnik.Sifarnik.resources
+C:\Users\Miodrag\Desktop\guals\obj\Debug\eDnevnik.Upisnica.resources
+C:\Users\Miodrag\Desktop\guals\obj\Debug\eDnevnik.csproj.GenerateResource.cache
+C:\Users\Miodrag\Desktop\guals\obj\Debug\eDnevnik.csproj.CoreCompileInputs.cache
+C:\Users\Miodrag\Desktop\guals\obj\Debug\eDnevnik.exe
+C:\Users\Miodrag\Desktop\guals\obj\Debug\eDnevnik.pdb
